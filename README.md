@@ -1,6 +1,7 @@
-<h1 align="center">Hi there👋, SHILPA B N here</h1>
 
-<h2>![](../Users/shilp/Pictures/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f61372f32652f39656137326566303738313339636564323839383532653861346561306335632e676966.gif)</h2>
+![](../Users/shilp/Pictures/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f61372f32652f39656137326566303738313339636564323839383532653861346561306335632e676966.gif)
+
+<h1 align="left">SHILPA B N here</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShilpaRaj14&label=Profile%20views&color=0e75b6&style=flat" alt="ShilpaRaj14" /> </p>
  
