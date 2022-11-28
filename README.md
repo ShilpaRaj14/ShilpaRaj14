@@ -1,35 +1,44 @@
-<h1 align="center">Hey 👋, I'm NISHCHITA KUMARI V</h1>
-<h3 align="center">A girl passionate about coding, tech, creativity and exploring new things </h3>
+<h1 align="center">Hi there👋, SHILPA B N here</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchita1&label=Profile%20views&color=0e75b6&style=flat" alt="nishchita1" /> </p>
+<h2>![](../Users/shilp/Pictures/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f61372f32652f39656137326566303738313339636564323839383532653861346561306335632e676966.gif)</h2>
 
-- 🔭 I’m currently exploring on **C++,  Hackerrank and Leetcode**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShilpaRaj14&label=Profile%20views&color=0e75b6&style=flat" alt="ShilpaRaj14" /> </p>
+ 
+- **About me**:
+
+- 👩 Pronouns: **She/Her**
+
+- 🔭 I’m currently working on **Software Development Certification**
+
+- 😍 My favourite language: **Python**
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Data Science and Data Analytics **
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Developer job role**
 
-- 👨‍💻 All of my projects are available at [:https://github.com/Nishchita1](:https://github.com/Nishchita1)
+- ❄️ My hobbies: **listen to music, explore nature outdoors, cycling**
 
-- 💬 Ask me about **Python,C++,HTML,CSS,Machine Learning,SQL related queries.**
+- ❤️ I love to learn and build something **new, productive, innovative and creative**
 
-- 📫 How to reach me **nishchitakumariv1223@gmail.com**
+- 👨‍💻 All my projects are available at [:https://github.com/ShilpaRaj14](:https://github.com/ShilpaRaj14)
 
+- ⚡Fun fact: **Coding + Eating + Repeating**
+
+- 📫 Reach out to me at **shilpabn668@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nishchitasweety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishchitasweety" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishchita kumari v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishchita kumari v" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nishchitakumari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishchitakumari1" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/Shilpa-raj-320147222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shilpa-raj-320147222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishchita1&show_icons=true&locale=en&layout=compact" alt="nishchita1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShilpaRaj14&show_icons=true&locale=en&layout=compact" alt="ShilpaRaj14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishchita1&show_icons=true&locale=en" alt="nishchita1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShilpaRaj14&show_icons=true&locale=en" alt="ShilpaRaj14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishchita1&" alt="nishchita1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShilpaRaj14&" alt="ShilpaRaj14" /></p>
